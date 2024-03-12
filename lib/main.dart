@@ -3,7 +3,9 @@ import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
 
 void main() {
-  runApp(const DeliveryApp());
+  runApp(
+    const DeliveryApp(),
+  );
 }
 
 class DeliveryApp extends StatelessWidget {
